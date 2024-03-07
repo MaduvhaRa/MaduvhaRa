@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaduvhaRa
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning software development 
+- 🌱 I’m currently studying software development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maduvhaangelah@gmail.com
 - 
